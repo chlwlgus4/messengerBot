@@ -1,0 +1,36 @@
+{
+    "chats": [
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/호출",
+            "timeMillis": 1619248131765,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/관리\/DebugRoom\/message\/1619248131765-151505229087828}"
+        },
+        {
+            "sender": "관리",
+            "content": "호출",
+            "timeMillis": 1619248131804,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/관리\/DebugRoom\/message\/1619248131804-151505257088193}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/호출",
+            "timeMillis": 1619248140906,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/관리\/DebugRoom\/message\/1619248140906-151514357187148}"
+        },
+        {
+            "sender": "관리",
+            "content": "호출",
+            "timeMillis": 1619248140941,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/관리\/DebugRoom\/message\/1619248140941-151514392124908}"
+        }
+    ]
+}

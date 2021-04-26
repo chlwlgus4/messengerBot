@@ -1,0 +1,19 @@
+{
+    "main": "모찌봇.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "debugRoom": {
+            "name": "DEBUG ROOM",
+            "sender": "DEBUG SENDER",
+            "isGroupChat": false,
+            "packageName": "com.xfl.msgbot"
+        },
+        "scriptPower": false,
+        "offOnRuntimeError": false,
+        "targetMessengers": {
+            "com.kakao.talk": true
+        }
+    }
+}

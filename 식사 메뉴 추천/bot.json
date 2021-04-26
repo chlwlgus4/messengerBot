@@ -1,0 +1,10 @@
+{
+    "main": "식사 메뉴 추천.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "scriptPower": true,
+        "offOnRuntimeError": false
+    }
+}

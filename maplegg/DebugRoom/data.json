@@ -1,0 +1,20 @@
+{
+    "chats": [
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/카링",
+            "timeMillis": 1619156544404,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/maplegg\/DebugRoom\/message\/1619156544404-112451755861684}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/카링",
+            "timeMillis": 1619156557496,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/maplegg\/DebugRoom\/message\/1619156557496-112464833984752}"
+        }
+    ]
+}

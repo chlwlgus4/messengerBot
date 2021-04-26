@@ -1,0 +1,10 @@
+{
+    "main": "욕관리.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "scriptPower": true,
+        "offOnRuntimeError": false
+    }
+}

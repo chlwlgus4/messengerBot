@@ -1,0 +1,10 @@
+{
+    "main": "가르치기.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "scriptPower": true,
+        "offOnRuntimeError": false
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "chats": [
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/가르치기 ㅁㅁ=ㄴㄴ",
+            "timeMillis": 1618985589967,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618985589967-14719928133497}"
+        },
+        {
+            "sender": "모찌봇",
+            "content": "ㅁㅁ을(를) ㄴㄴ(으)로 배웠습니다.",
+            "timeMillis": 1618985590002,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618985590002-14719942733393}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "ㅁㅁ",
+            "timeMillis": 1618985593343,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618985593343-14723285720527}"
+        },
+        {
+            "sender": "모찌봇",
+            "content": "ㄴㄴ",
+            "timeMillis": 1618985593362,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618985593362-14723304492663}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/학습제거 ㅁㅁ",
+            "timeMillis": 1618985741849,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618985741849-14871791411929}"
+        },
+        {
+            "sender": "모찌봇",
+            "content": "ㅁㅁ의 학습내용 : ㄴㄴ",
+            "timeMillis": 1618985741867,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618985741867-14871808307866}"
+        },
+        {
+            "sender": "모찌봇",
+            "content": "ㅁㅁ 학습내용을 제거했습니다!",
+            "timeMillis": 1618985741886,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618985741886-14871827525835}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@비트코인",
+            "timeMillis": 1618991858880,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618991858880-20988824772200}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@비트코인",
+            "timeMillis": 1618991977664,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618991977664-21107608113352}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@",
+            "timeMillis": 1618992565037,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618992565037-21694979285993}"
+        },
+        {
+            "sender": "모찌봇",
+            "content": "<html>\n <head><\/head>\n <body>\n  [{\"market\":\"KRW-BTC\",\"korean_name\":\"비트코인\",\"english_name\":\"Bitcoin\"},{\"market\":\"KRW-ETH\",\"korean_name\":\"이더리움\",\"english_name\":\"Ethereum\"},{\"market\":\"BTC-ETH\",\"korean_name\":\"이더리움\",\"english_name\":\"Ethereum\"},{\"market\":\"BTC-LTC\",\"korean_name\":\"라이트코인\",\"english_name\":\"Litecoi...",
+            "timeMillis": 1618992565347,
+            "isBot": true,
+            "isLong": true,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618992565347-21695288983284}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@",
+            "timeMillis": 1618992802647,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618992802647-21932588570225}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@",
+            "timeMillis": 1618992812297,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618992812297-21942239167253}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@",
+            "timeMillis": 1618992911596,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618992911596-22041541663048}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@",
+            "timeMillis": 1618992920759,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618992920759-22050702383044}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@",
+            "timeMillis": 1618993005930,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618993005930-22135873143220}"
+        },
+        {
+            "sender": "모찌봇",
+            "content": "<html>\n <head><\/head>\n <body>\n  [{\"market\":\"KRW-BTC\",\"korean_name\":\"비트코인\",\"english_name\":\"Bitcoin\"},{\"market\":\"KRW-ETH\",\"korean_name\":\"이더리움\",\"english_name\":\"Ethereum\"},{\"market\":\"BTC-ETH\",\"korean_name\":\"이더리움\",\"english_name\":\"Ethereum\"},{\"market\":\"BTC-LTC\",\"korean_name\":\"라이트코인\",\"english_name\":\"Litecoi...",
+            "timeMillis": 1618993006221,
+            "isBot": true,
+            "isLong": true,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618993006221-22136163734835}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@",
+            "timeMillis": 1618993521403,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618993521403-22651345135315}"
+        },
+        {
+            "sender": "모찌봇",
+            "content": "<html>\n <head><\/head>\n <body>\n  [{\"market\":\"KRW-BTC\",\"korean_name\":\"비트코인\",\"english_name\":\"Bitcoin\"},{\"market\":\"KRW-ETH\",\"korean_name\":\"이더리움\",\"english_name\":\"Ethereum\"},{\"market\":\"BTC-ETH\",\"korean_name\":\"이더리움\",\"english_name\":\"Ethereum\"},{\"market\":\"BTC-LTC\",\"korean_name\":\"라이트코인\",\"english_name\":\"Litecoi...",
+            "timeMillis": 1618993521698,
+            "isBot": true,
+            "isLong": true,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618993521698-22651639261774}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@",
+            "timeMillis": 1618993619126,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618993619126-22749068220434}"
+        },
+        {
+            "sender": "모찌봇",
+            "content": "<html>\n <head><\/head>\n <body>\n  [{\"market\":\"KRW-BTC\",\"korean_name\":\"비트코인\",\"english_name\":\"Bitcoin\"},{\"market\":\"KRW-ETH\",\"korean_name\":\"이더리움\",\"english_name\":\"Ethereum\"},{\"market\":\"BTC-ETH\",\"korean_name\":\"이더리움\",\"english_name\":\"Ethereum\"},{\"market\":\"BTC-LTC\",\"korean_name\":\"라이트코인\",\"english_name\":\"Litecoi...",
+            "timeMillis": 1618993619248,
+            "isBot": true,
+            "isLong": true,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618993619248-22749191463403}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@",
+            "timeMillis": 1618994105216,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618994105216-23235158219780}"
+        },
+        {
+            "sender": "모찌봇",
+            "content": "<html>\n <head><\/head>\n <body>\n  [{\"market\":\"KRW-BTC\",\"korean_name\":\"비트코인\",\"english_name\":\"Bitcoin\"},{\"market\":\"KRW-ETH\",\"korean_name\":\"이더리움\",\"english_name\":\"Ethereum\"},{\"market\":\"BTC-ETH\",\"korean_name\":\"이더리움\",\"english_name\":\"Ethereum\"},{\"market\":\"BTC-LTC\",\"korean_name\":\"라이트코인\",\"english_name\":\"Litecoi...",
+            "timeMillis": 1618994105575,
+            "isBot": true,
+            "isLong": true,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618994105575-23235517032384}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@",
+            "timeMillis": 1618994257998,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618994257998-23387942874930}"
+        },
+        {
+            "sender": "모찌봇",
+            "content": "<html>\n <head><\/head>\n <body>\n  [{\"market\":\"KRW-BTC\",\"korean_name\":\"비트코인\",\"english_name\":\"Bitcoin\"},{\"market\":\"KRW-ETH\",\"korean_name\":\"이더리움\",\"english_name\":\"Ethereum\"},{\"market\":\"BTC-ETH\",\"korean_name\":\"이더리움\",\"english_name\":\"Ethereum\"},{\"market\":\"BTC-LTC\",\"korean_name\":\"라이트코인\",\"english_name\":\"Litecoi...",
+            "timeMillis": 1618994258086,
+            "isBot": true,
+            "isLong": true,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618994258086-23388029962013}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@도지코인",
+            "timeMillis": 1618994589802,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1618994589802-23719746031783}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "@@도지코인",
+            "timeMillis": 1619018987845,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1619018987845-45476774813483}"
+        },
+        {
+            "sender": "모찌봇",
+            "content": "도지코인의 현재 가격은 382원 입니다",
+            "timeMillis": 1619018987945,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/bot\/Bots\/모찌봇\/DebugRoom\/message\/1619018987945-45476874033848}"
+        }
+    ]
+}

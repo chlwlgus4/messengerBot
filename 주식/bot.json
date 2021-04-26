@@ -1,0 +1,10 @@
+{
+    "main": "주식.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "offOnRuntimeError": false,
+        "scriptPower": true
+    }
+}
